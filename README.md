@@ -6,7 +6,7 @@ Este proyecto implementa una red neuronal profunda (DNN) utilizando TensorFlow/K
 
 ## 👤 Autor
 
-![Logo](https://enlinea.tecmm.mx/moodle/pluginfile.php/1/theme_roshnilite/logo/1756935571/tecjalisco%20azul.png)
+![Logo](logogit.png)
 
 - **Autor:** _Eduardo Efrain Garcia Sarez_
 
